@@ -1,10 +1,6 @@
 # engine-3d
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Simple 3D space simulation for course work
 
 ## License
 
